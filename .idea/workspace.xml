@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d61a7dac-e4ae-484a-ae7a-f30262707012" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍_1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍_1/1912.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍_2/11054.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍_2/11055.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍_2/11722.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍_2/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍_2/13398.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/다이나믹프로그래밍_2/11722.py" beforeDir="false" afterPath="$PROJECT_DIR$/다이나믹프로그래밍_2/11722.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/다이나믹프로그래밍_2/test.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,15 +16,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_1/LIS/14002.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_1/1912.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
@@ -37,10 +25,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_2/test.txt">
+        <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_2/13398.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+            <state relative-caret-position="285">
+              <caret line="26" column="13" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -48,22 +36,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_2/11054.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_2/11722.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            <state relative-caret-position="21">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_2/11722.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_1/LIS/12738.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -73,37 +61,30 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/브루트포스_재귀/14889.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/브루트포스_비트마스크/1182.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/브루트포스_비트마스크/14391.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/브루트포스_비트마스크/14889.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_2/11055.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
               <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_1/LIS/14003.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="22" selection-start-column="22" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/브루트포스/1107.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/브루트포스/6064.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="65" selection-start-line="1" selection-start-column="65" selection-end-line="1" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -137,12 +118,13 @@
         <option value="$PROJECT_DIR$/다이나믹프로그래밍_1/12738.py" />
         <option value="$PROJECT_DIR$/다이나믹프로그래밍_1/14003.py" />
         <option value="$PROJECT_DIR$/다이나믹프로그래밍_1/LIS/14003.py" />
-        <option value="$PROJECT_DIR$/다이나믹프로그래밍_2/test.txt" />
         <option value="$PROJECT_DIR$/다이나믹프로그래밍_2/fdsfds.py" />
         <option value="$PROJECT_DIR$/다이나믹프로그래밍_2/11055.py" />
-        <option value="$PROJECT_DIR$/다이나믹프로그래밍_2/11722.py" />
-        <option value="$PROJECT_DIR$/다이나믹프로그래밍_2/11054.py" />
         <option value="$PROJECT_DIR$/다이나믹프로그래밍_1/1912.py" />
+        <option value="$PROJECT_DIR$/다이나믹프로그래밍_2/test.txt" />
+        <option value="$PROJECT_DIR$/다이나믹프로그래밍_2/13398.py" />
+        <option value="$PROJECT_DIR$/다이나믹프로그래밍_2/11054.py" />
+        <option value="$PROJECT_DIR$/다이나믹프로그래밍_2/11722.py" />
       </list>
     </option>
   </component>
@@ -188,6 +170,16 @@
               <item name="code_plus_basic" type="462c0819:PsiDirectoryNode" />
               <item name="브루트포스" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="code_plus_basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_plus_basic" type="462c0819:PsiDirectoryNode" />
+              <item name="브루트포스_비트마스크" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_plus_basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_plus_basic" type="462c0819:PsiDirectoryNode" />
+              <item name="브루트포스_재귀" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -212,7 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1912">
+  <component name="RunManager" selected="Python.13398">
     <configuration name="11054" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code_plus_basic" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -276,6 +268,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="13398" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code_plus_basic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/다이나믹프로그래밍_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/다이나믹프로그래밍_2/13398.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="1912" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code_plus_basic" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -297,34 +310,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fdsfds" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="code_plus_basic" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/다이나믹프로그래밍_2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/다이나믹프로그래밍_2/fdsfds.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.13398" />
         <item itemvalue="Python.1912" />
         <item itemvalue="Python.11054" />
         <item itemvalue="Python.11722" />
         <item itemvalue="Python.11055" />
-        <item itemvalue="Python.fdsfds" />
       </list>
     </recent_temporary>
   </component>
@@ -507,10 +499,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_2/test.txt">
+    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_1/LIS/12738.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        <state relative-caret-position="180">
+          <caret line="12" column="48" lean-forward="true" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/브루트포스_재귀/14889.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/브루트포스_비트마스크/1182.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/브루트포스_비트마스크/14391.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/브루트포스_비트마스크/14889.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_2/test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_1/1912.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_2/13398.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_2/11054.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -523,29 +551,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_2/11722.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_1/1912.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_2/11054.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_1/LIS/12738.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="48" lean-forward="true" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        <state relative-caret-position="42">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
     </entry>
