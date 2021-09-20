@@ -2,24 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d61a7dac-e4ae-484a-ae7a-f30262707012" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BFS/1261_알고스팟.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BFS/13549_숨바꼭질3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BFS/13913_숨바꼭질4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BFS/14226_이모티콘.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BFS/1697_숨바꼭질.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍_1/knapsack/12865_평범한배낭1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍_1/knapsack/12920_평범한배낭2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍_1/knapsack/16493_최대페이지수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍_1/knapsack/3067_coins.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/브루트포스_재귀/n-queen/21133_n-queen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/브루트포스_재귀/n-queen/3344_n-queen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/브루트포스_재귀/n-queen/9663_n-queen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/큐와그래프/2178_미로탐색.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/큐와그래프/2667_단지번호붙이기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/큐와그래프/7562_나이트의이동.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/큐와그래프/7576_토마토.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/큐와그래프/1707_이분그래프.py" beforeDir="false" afterPath="$PROJECT_DIR$/큐와그래프/1707_이분그래프.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/다이나믹프로그래밍_1/knapsack/12865_평범한배낭1.py" beforeDir="false" afterPath="$PROJECT_DIR$/다이나믹프로그래밍_1/knapsack/12865_평범한배낭1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/다이나믹프로그래밍_1/knapsack/12920_평범한배낭2.py" beforeDir="false" afterPath="$PROJECT_DIR$/다이나믹프로그래밍_1/knapsack/12920_평범한배낭2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/다이나믹프로그래밍_1/knapsack/3067_coins.py" beforeDir="false" afterPath="$PROJECT_DIR$/다이나믹프로그래밍_1/knapsack/3067_coins.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,11 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_1/knapsack/3067_coins.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="336">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -77,8 +62,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_1/knapsack/12865_평범한배낭1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" selection-start-column="8" selection-end-column="8" />
+            <state relative-caret-position="242">
+              <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -92,11 +77,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_1/knapsack/12920_평범한배낭2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            <state relative-caret-position="154">
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -174,10 +159,10 @@
         <option value="$PROJECT_DIR$/브루트포스_재귀/n-queen/3344_n-queen.py" />
         <option value="$PROJECT_DIR$/브루트포스_재귀/n-queen/21133_n-queen.py" />
         <option value="$PROJECT_DIR$/브루트포스_재귀/n-queen/9663_n-queen.py" />
-        <option value="$PROJECT_DIR$/다이나믹프로그래밍_1/knapsack/12865_평범한배낭1.py" />
-        <option value="$PROJECT_DIR$/다이나믹프로그래밍_1/knapsack/12920_평범한배낭2.py" />
         <option value="$PROJECT_DIR$/다이나믹프로그래밍_1/knapsack/16493_최대페이지수.py" />
         <option value="$PROJECT_DIR$/다이나믹프로그래밍_1/knapsack/3067_coins.py" />
+        <option value="$PROJECT_DIR$/다이나믹프로그래밍_1/knapsack/12865_평범한배낭1.py" />
+        <option value="$PROJECT_DIR$/다이나믹프로그래밍_1/knapsack/12920_평범한배낭2.py" />
       </list>
     </option>
   </component>
@@ -279,7 +264,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.16493_최대페이지수">
+  <component name="RunManager" selected="Python.12865_평범한배낭1">
+    <configuration name="12865_평범한배낭1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code_plus_basic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/다이나믹프로그래밍_1/knapsack" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/다이나믹프로그래밍_1/knapsack/12865_평범한배낭1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="13549_숨바꼭질3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code_plus_basic" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -293,27 +299,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BFS/13549_숨바꼭질3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="13913_숨바꼭질4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="code_plus_basic" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BFS" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BFS/13913_숨바꼭질4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -387,11 +372,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.12865_평범한배낭1" />
         <item itemvalue="Python.16493_최대페이지수" />
         <item itemvalue="Python.9663_n-queen" />
         <item itemvalue="Python.1707_이분그래프" />
         <item itemvalue="Python.13549_숨바꼭질3" />
-        <item itemvalue="Python.13913_숨바꼭질4" />
       </list>
     </recent_temporary>
   </component>
@@ -412,12 +397,12 @@
     <frame x="1914" y="6" width="1037" height="1118" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.183" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.183" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33401015" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33401015" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -739,17 +724,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_1/knapsack/12865_평범한배낭1.py">
+    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_1/knapsack/3067_coins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_1/knapsack/12920_평범한배낭2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        <state relative-caret-position="336">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
@@ -760,10 +738,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_1/knapsack/3067_coins.py">
+    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_1/knapsack/12865_평범한배낭1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="242">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_1/knapsack/12920_평범한배낭2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
         </state>
       </provider>
     </entry>
