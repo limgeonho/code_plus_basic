@@ -1,28 +1,35 @@
 # 숨바꼭질3
+# deque의 appendleft()를 기억하기!! => deque의 왼쪽에 넣기 때문에 append()보다 앞으로 들어가고 pop()했을 때 우선적으로 처리 가능하다!
 
 from collections import deque
 
 def bfs(x):
     q = deque()
-    visited[x] = 0
+    array[n] = 0
+    visited[n] = True
     q.append(x)
+
     while q:
         now = q.popleft()
-        nxt_2 = now * 2
-        # if now == k:
-        #     return
-        if 0<=nxt_2<100001 and visited[nxt_2] == -1:
-            visited[nxt_2] = visited[now]
-            q.append(nxt_2)
-        for nxt in (now+1, now-1):
-            if 0<= nxt < 100001 and visited[nxt] == -1:
-                visited[nxt] = visited[now] + 1
-                q.append(nxt)
+
+        if now*2 < 200000 and not visited[now*2]:
+            visited[now*2] = True
+            array[now*2] = array[now]
+            q.appendleft(now*2)
+        if now-1 >= 0 and not visited[now-1]:
+            visited[now-1] = True
+            array[now-1] = array[now] + 1
+            q.append(now-1)
+        if now+1 <200000 and not visited[now+1]:
+            visited[now+1] = True
+            array[now+1] = array[now] + 1
+            q.append(now+1)
 
 n, k = map(int, input().split())
 
-array = [-1] * 100001
-visited = [-1] * 100001
+array = [-1] * 200000
+visited = [False] * 200000
+
 
 bfs(n)
-print(visited)
+print(array[k])
