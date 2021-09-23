@@ -2,18 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d61a7dac-e4ae-484a-ae7a-f30262707012" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍_2/11057_오르막수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍_2/1149_RGB거리.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍_2/1309_동물원.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍_2/15988_123더하기3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍_2/1932_정수삼각형.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍_2/2133_타일채우기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/다이나믹프로그래밍_2/2156_포도주시식.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/시뮬레이션과구현/14499_주사위굴리기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/시뮬레이션과구현/14503_로봇청소기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/시뮬레이션과구현/14890_경사로.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/시뮬레이션과구현/15662_톱니바퀴(2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/시뮬레이션과구현/16926_배열돌리기1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/시뮬레이션과구현/16927_배열돌리기2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/시뮬레이션과구현/16935_배열돌리기3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/다이나믹프로그래밍_2/13398.py" beforeDir="false" afterPath="$PROJECT_DIR$/다이나믹프로그래밍_2/13398_연속합2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/다이나믹프로그래밍_2/LIS2/11054.py" beforeDir="false" afterPath="$PROJECT_DIR$/다이나믹프로그래밍_2/LIS2/11054_가장긴바이토닉수열.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/다이나믹프로그래밍_2/LIS2/11055.py" beforeDir="false" afterPath="$PROJECT_DIR$/다이나믹프로그래밍_2/LIS2/11055_가장큰증가부분수열.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/다이나믹프로그래밍_2/LIS2/11722.py" beforeDir="false" afterPath="$PROJECT_DIR$/다이나믹프로그래밍_2/LIS2/11722_가장긴감소하는부분수열.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,62 +20,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/브루트포스_N과M/18290.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-135" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_2/13398_연속합2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_2/15988_123더하기3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_2/1149_RGB거리.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_2/1309_동물원.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_2/11057_오르막수.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_2/2156_포도주시식.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
-              <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -93,11 +37,74 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_2/2133_타일채우기.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            <state relative-caret-position="57">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/시뮬레이션과구현/16935_배열돌리기3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/시뮬레이션과구현/16926_배열돌리기1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/시뮬레이션과구현/16927_배열돌리기2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/시뮬레이션과구현/14499_주사위굴리기.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/시뮬레이션과구현/14890_경사로.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/시뮬레이션과구현/15662_톱니바퀴(2).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="7" selection-start-column="7" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/시뮬레이션과구현/14503_로봇청소기.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="8" selection-start-column="8" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -110,13 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/브루트포스_순열/6603_로또.py" />
-        <option value="$PROJECT_DIR$/브루트포스_순열/10972_다음순열.py" />
-        <option value="$PROJECT_DIR$/브루트포스_순열/10971_외판원순회2.py" />
-        <option value="$PROJECT_DIR$/브루트포스_순열/2098_외판원순회.py" />
-        <option value="$PROJECT_DIR$/큐와그래프/2667_단지번호붙이기.py" />
-        <option value="$PROJECT_DIR$/큐와그래프/2178_미로탐색.py" />
-        <option value="$PROJECT_DIR$/큐와그래프/7576_토마토.py" />
         <option value="$PROJECT_DIR$/큐와그래프/7562_나이트의이동.py" />
         <option value="$PROJECT_DIR$/BFS/1697_숨바꼭질.py" />
         <option value="$PROJECT_DIR$/BFS/13913_숨바꼭질4.py" />
@@ -161,12 +161,19 @@
         <option value="$PROJECT_DIR$/다이나믹프로그래밍_2/2156_포도주시식.py" />
         <option value="$PROJECT_DIR$/다이나믹프로그래밍_2/1932_정수삼각형.py" />
         <option value="$PROJECT_DIR$/다이나믹프로그래밍_2/2133_타일채우기.py" />
+        <option value="$PROJECT_DIR$/시뮬레이션과구현/14499_주사위굴리기.py" />
+        <option value="$PROJECT_DIR$/시뮬레이션과구현/14890_경사로.py" />
+        <option value="$PROJECT_DIR$/시뮬레이션과구현/15662_톱니바퀴(2).py" />
+        <option value="$PROJECT_DIR$/시뮬레이션과구현/14503_로봇청소기.py" />
+        <option value="$PROJECT_DIR$/시뮬레이션과구현/16935_배열돌리기3.py" />
+        <option value="$PROJECT_DIR$/시뮬레이션과구현/16926_배열돌리기1.py" />
+        <option value="$PROJECT_DIR$/시뮬레이션과구현/16927_배열돌리기2.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="96" />
-    <option name="y" value="-23" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="142" />
+    <option name="y" value="-13" />
     <option name="width" value="1625" />
     <option name="height" value="965" />
   </component>
@@ -184,11 +191,6 @@
             <path>
               <item name="code_plus_basic" type="b2602c69:ProjectViewProjectNode" />
               <item name="code_plus_basic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code_plus_basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code_plus_basic" type="462c0819:PsiDirectoryNode" />
-              <item name="BFS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="code_plus_basic" type="b2602c69:ProjectViewProjectNode" />
@@ -231,7 +233,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2133_타일채우기">
+  <component name="RunManager" selected="Python.16926_배열돌리기1">
     <configuration name="11057_오르막수" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code_plus_basic" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -253,7 +255,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1149_RGB거리" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="16926_배열돌리기1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code_plus_basic" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -261,11 +263,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/다이나믹프로그래밍_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/시뮬레이션과구현" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/다이나믹프로그래밍_2/1149_RGB거리.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/시뮬레이션과구현/16926_배열돌리기1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -274,7 +276,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1309_동물원" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="16935_배열돌리기3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code_plus_basic" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -282,11 +284,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/다이나믹프로그래밍_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/시뮬레이션과구현" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/다이나믹프로그래밍_2/1309_동물원.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/시뮬레이션과구현/16935_배열돌리기3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -339,11 +341,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.16926_배열돌리기1" />
+        <item itemvalue="Python.16935_배열돌리기3" />
         <item itemvalue="Python.2133_타일채우기" />
         <item itemvalue="Python.2156_포도주시식" />
         <item itemvalue="Python.11057_오르막수" />
-        <item itemvalue="Python.1309_동물원" />
-        <item itemvalue="Python.1149_RGB거리" />
       </list>
     </recent_temporary>
   </component>
@@ -362,6 +364,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17580965" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -383,55 +386,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_1/LIS/14002.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/큐와그래프/1260_DFS와BFS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/큐와그래프/11724_연결요소의개수.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/큐와그래프/7576_토마토.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/브루트포스_재귀/n-queen/21133_n-queen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/브루트포스_재귀/n-queen/9663_n-queen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/브루트포스_재귀/n-queen/3344_n-queen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/큐와그래프/1707_이분그래프.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="620">
@@ -720,7 +674,7 @@
     <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_2/2156_포도주시식.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -733,8 +687,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/다이나믹프로그래밍_2/2133_타일채우기.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/시뮬레이션과구현/14499_주사위굴리기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/시뮬레이션과구현/14890_경사로.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/시뮬레이션과구현/15662_톱니바퀴(2).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/시뮬레이션과구현/14503_로봇청소기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/시뮬레이션과구현/16935_배열돌리기3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/시뮬레이션과구현/16926_배열돌리기1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/시뮬레이션과구현/16927_배열돌리기2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
